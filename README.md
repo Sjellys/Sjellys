@@ -1,10 +1,5 @@
 # About me
 
-
-**Sjellys/Sjellys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a python project to analyze League of Legends data.
 - 🌱 I’m currently learning data analysis and visualization with python.
 - 👯 I’m looking to collaborate on any learning experiences and related to League of Legends or Theorycrafting. 
@@ -12,4 +7,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything you like 👍
 - 📫 How to reach me: @NadrojRo on X
 - ⚡ Fun fact: I love to learn, it's the fire that keeps me moving forward! Never give up, never surrender!
-
